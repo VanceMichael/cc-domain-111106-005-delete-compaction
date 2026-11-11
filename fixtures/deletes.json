@@ -1,0 +1,20 @@
+[
+  {
+    "kind": "position",
+    "file_id": "old-a",
+    "row": 0
+  },
+  {
+    "kind": "equality",
+    "field_ids": [
+      1
+    ],
+    "values": [
+      {
+        "type": "string",
+        "value": "sample-x"
+      }
+    ],
+    "delete_sequence": "12"
+  }
+]

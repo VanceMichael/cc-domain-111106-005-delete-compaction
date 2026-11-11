@@ -1,0 +1,11 @@
+{
+  "snapshot_id": "water-18",
+  "data_manifest": "manifest.jsonl",
+  "delete_files": [
+    "deletes.json"
+  ],
+  "fields": {
+    "1": "string",
+    "2": "decimal"
+  }
+}

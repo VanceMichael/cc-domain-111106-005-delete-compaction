@@ -1,0 +1,37 @@
+[
+  {
+    "file": "deletes.json",
+    "bytes": 261,
+    "sha256": "aca8f5decad22432d974902f753fad841c9dba59c8a025193be0c96693aec7b6"
+  },
+  {
+    "file": "manifest.jsonl",
+    "bytes": 152,
+    "sha256": "fd485714f4d8952cf9e6c3c3893ef4ff544dddea7e92c8dd912bdb71274752e2"
+  },
+  {
+    "file": "old-a.jsonl",
+    "bytes": 56,
+    "sha256": "3e3dd53a0a137c6c2bf9c50eced9e914e9e9933e19e1fc28eaac12a6cd164111"
+  },
+  {
+    "file": "new-b.jsonl",
+    "bytes": 28,
+    "sha256": "2e1f1da4281294014bf06d095fdec161e42c8a4974dc5b325e961bb96610c37f"
+  },
+  {
+    "file": "new-delete.json",
+    "bytes": 73,
+    "sha256": "67343fb49f1562919eb815d6f36693373ee93484698476aa985b683ff9e66856"
+  },
+  {
+    "file": "intent.json",
+    "bytes": 141,
+    "sha256": "154e8b206088522977ad6c3981cf8f5db042a438c80fbacd8b8ac3382b6dcaea"
+  },
+  {
+    "file": "snapshot.json",
+    "bytes": 170,
+    "sha256": "8c58451d61e3eb80df9252b6dd6d52529344210d900aa4a69c718ac694acd6f3"
+  }
+]

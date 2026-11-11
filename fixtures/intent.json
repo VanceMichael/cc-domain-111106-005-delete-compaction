@@ -1,0 +1,8 @@
+{
+  "maintenance_id": "compact-synthetic",
+  "base_snapshot": "water-18",
+  "selected_files": [
+    "old-a"
+  ],
+  "max_output_rows": 1000
+}
